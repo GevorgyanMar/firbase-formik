@@ -1,0 +1,28 @@
+
+.login-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-block button {
+    max-width: 166px;
+    width: 100%;
+    padding: 8px 5px;
+    margin: 0 15px;
+}
+.login-block button  a {
+    text-decoration: none;
+    color: #fff;
+}
+
+button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #3f51b5;
+}
